@@ -1,0 +1,8 @@
+train: ../mydataset/train/images  # 128 images
+val: ../mydataset/valid/images  # 128 images
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'person' ]
